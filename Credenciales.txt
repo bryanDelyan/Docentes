@@ -1,0 +1,7 @@
+User:
+usuario@gmail.com
+12345678
+
+admin:
+test@gmail.com
+admin123456
